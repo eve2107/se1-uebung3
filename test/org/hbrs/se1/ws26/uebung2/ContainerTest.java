@@ -1,6 +1,9 @@
 package org.hbrs.se1.ws26.uebung2;
 
-import org.hbrs.se1.ws26.exercises.uebung2.Member;
+import org.hbrs.se1.ws26.exercises.uebung3.Member;
+import org.hbrs.se1.ws26.exercises.uebung3.ConcreteMember;
+import org.hbrs.se1.ws26.exercises.uebung3.Container;
+import org.hbrs.se1.ws26.exercises.uebung3.ContainerException;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
